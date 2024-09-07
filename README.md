@@ -1,17 +1,21 @@
-# dicionario-tecnologia
+## Dicionário de Termos Técnicos
 
-Este é um projeto de um dicionário de termos técnicos com foco em explicações acessíveis para o público leigo. O dicionário abrange diversas áreas, como linguagens de programação, frameworks, ferramentas, práticas e conceitos relacionados ao desenvolvimento de software. Cada termo inclui uma breve definição e links para artigos relevantes da Alura, ajudando o usuário a se aprofundar nos temas de interesse.
+**...**
 
+### Funcionalidades
 
+* **Barra de pesquisa:** Encontre rapidamente o termo desejado.
+* **Filtros:** Explore termos por categoria (linguagens, frameworks, etc.).
+* **Favoritos:** Marque seus termos favoritos para acesso rápido.
+* **Histórico de buscas:** Visualize suas últimas pesquisas.
+* **Modo escuro:** Personalize a experiência visual.
 
-*Funcionalidades:*
+### Tecnologias Utilizadas
 
+* **HTML5, CSS3, JavaScript:** Forma a base da aplicação web.
 
-
-
-Barra de Pesquisa Funcional: Permite a busca de termos por meio de **palavras-chave**.
-
-Definições Acessíveis: Explicações claras e **objetivas** para cada termo.
+### Estrutura do Projeto
+.
 
 Links para Leitura Adicional: Cada definição inclui um link para um artigo detalhado da **Alura**.
 
