@@ -5,10 +5,7 @@
 ### Funcionalidades
 
 * **Barra de pesquisa:** Encontre rapidamente o termo desejado.
-* **Filtros:** Explore termos por categoria (linguagens, frameworks, etc.).
-* **Favoritos:** Marque seus termos favoritos para acesso rápido.
 * **Histórico de buscas:** Visualize suas últimas pesquisas.
-* **Modo escuro:** Personalize a experiência visual.
 
 ### Tecnologias Utilizadas
 
