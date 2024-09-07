@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicionário Tecnologia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dicionário Tecnologia</h1>
+        <nav>
+            <a href="#home">Home</a>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Bem-vindo ao Dicionário</h2>
+        <p>Seu dicionário sobre as últimas tecnologias e termos técnicos explicados de maneira acessível.</p>
+    </section>
+    <div class="barra-pesquisa">
+        <input type="text" id="campo-pesquisa" placeholder="Buscar termo...">
+        <button id="botao-pesquisar" onclick="pesquisar()">Pesquisar</button>
+
+    </div>
+
+    <section class="resultados-pesquisa" id="resultados-pesquisa">
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Dicionário de Tecnologia - Todos os direitos reservados</p>
+        <div class="rodape-creditos">
+            <p>Desenvolvido para estudo, usando artigos da <a href="https://www.alura.com.br" target="_blank">Alura</a>.</p>
+        </div>
+    </footer>
+    <script src=".dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
